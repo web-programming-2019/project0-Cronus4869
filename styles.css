@@ -1,0 +1,26 @@
+.info{
+    color : gray;
+    text-align : left;
+    text-decoration: underline;
+
+
+}
+
+.name{
+    text-transform: capitalize;
+
+}
+
+.research{
+    font-size: 28px;
+    font-weight:bold;
+}
+
+#talk{
+    text-indent:50px;
+    color: green;
+    font-size:30px;
+}
+#school{
+    color : blue;
+}
